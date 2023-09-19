@@ -1,34 +1,18 @@
+# Grocery App UI  
+- The Grocery is a cross-platform application UI.
+- The app is developed using Flutter, Android Studio , canva , Git .
+- The logo was designed using Figma.
 
-Flutter Grocery App UI  
--------------  
-### To try the app download the apk from the [Release Tab](https://github.com/mohammedhashim44/Flutter-Grocery-App-UI/releases/download/1.0.0/app-release.apk)  
--------------
-  
-#### Flutter Version Used : 3.3.7
-#### Design Credit : By  [Afsar Hossen](https://www.linkedin.com/in/afsar-shuvo/)  
-#### Design Files on Figma : [Online Groceries App UI](https://www.figma.com/community/file/882645007956337261)  
-  
--------------  
+### Developer mode:
+- Open the flutter file in terminal.
+- Open the emulator using android studio.
+- Use this code “flutter run” to run the application in emulator.
 
-## Screenshots  
+### Production mode:
+- Open the flutter file in terminal.
+- Use this code “flutter build apk --build-name=  --build-number=” to build the apk. 
+- Now , apk (82mb) can be installed in your mobile or in emulator. 
 
-<p float="left">
-  <img src="screenshots/1.jpg" width="200" />
-  <img src="screenshots/2.jpg" width="200" /> 
-  <img src="screenshots/3.jpg" width="200" />
-  <img src="screenshots/4.jpg" width="200" />
-  <img src="screenshots/5.jpg" width="200" /> 
-  <img src="screenshots/6.jpg" width="200" />
-  <img src="screenshots/7.jpg" width="200" />
-  <img src="screenshots/8.jpg" width="200" /> 
-  <img src="screenshots/9.jpg" width="200" />
-  <img src="screenshots/10.jpg" width="200" />
-  <img src="screenshots/11.jpg" width="200" />
-  <img src="screenshots/12.jpg" width="200" />
-  <img src="screenshots/13.jpg" width="200" />
-</p>
-
--------------  
 
 ## Screens  
 - Splash Screen  
@@ -43,3 +27,19 @@ Flutter Grocery App UI
 - Order Failed Dialog  
 - Order Accepted Screen  
 - Profile Screen
+
+- 
+A few resources to get you started if this is your first Flutter project:
+
+[Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+
+[Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Links
+* [linkedin](https://www.linkedin.com/in/seeni-mohamed-a-24897b1a0/)
+* [Instagram](https://www.instagram.com/seeni_md___/)
+ 
